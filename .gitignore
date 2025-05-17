@@ -1,0 +1,8 @@
+*.pyc
+__pycache__/
+*.log
+*.parquet
+*.idea/
+*.db
+.DS_Store
+.env
